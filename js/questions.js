@@ -15,7 +15,7 @@ let questions = [
     },
     {
         numb: 2,
-        question: "나마에와 기류타피 미?",
+        question: "기모띠 몰리하다",
         answer: "홀리 몰리하다",
         options: [
             "홀리 몰리하다",
